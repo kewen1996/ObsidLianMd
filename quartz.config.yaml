@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: obsid-lian-f1fif3k3k-kewen1996s-projects.vercel.app
+  baseUrl: obsid-lian-md2.vercel.app
   ignorePatterns:
     - private
     - templates
